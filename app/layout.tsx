@@ -14,9 +14,12 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "Tinder Messaging Improvement",
+  description: "Have better conversations on Tinder with AI-powered message suggestions.",
   generator: "v0.app",
+  icons: {
+    icon: "/tinder_icon.png",
+  },
 }
 
 export default function RootLayout({
