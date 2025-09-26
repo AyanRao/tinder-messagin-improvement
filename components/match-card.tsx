@@ -15,8 +15,8 @@ export function MatchCard() {
   const matches = [
     {
       id: 1,
-      name: "Alice, 24",
-      photos: ["/attractive-woman-profile-picture.jpg", "/diverse-woman-smiling.png", "/woman-hiking.png"],
+      name: "Neeraj, 23",
+      photos: ["/neeraj2.png", "/neeraj.png", "/neeraj3.png"],
       interests: ["Hiking", "Photography", "Coffee"],
       mutualInterests: ["Hiking", "Coffee"], // Added mutual interests
       wouldYouRather: {
@@ -34,8 +34,8 @@ export function MatchCard() {
     },
     {
       id: 2,
-      name: "Bob, 26",
-      photos: ["/attractive-man-profile-picture.jpg", "/man-gaming.jpg", "/man-cooking.png"],
+      name: "Kartik, 28(OLD)",
+      photos: ["/kartik1.png", "/kartik2.png", "/man-cooking.png"],
       interests: ["Gaming", "Cooking", "Movies"],
       mutualInterests: ["Gaming"],
       wouldYouRather: {
@@ -51,8 +51,8 @@ export function MatchCard() {
     },
     {
       id: 3,
-      name: "Charlie, 23",
-      photos: ["/attractive-person-profile-picture.jpg", "/person-reading.png", "/person-playing-guitar.jpg"],
+      name: "Adiblack, 23",
+      photos: ["/aditya1.jpg", "/aditya2.png", "/ayush3.png"],
       interests: ["Reading", "Art", "Music"],
       mutualInterests: ["Music", "Art"],
       wouldYouRather: {

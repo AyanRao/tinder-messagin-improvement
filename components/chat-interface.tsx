@@ -62,7 +62,7 @@ export function ChatInterface() {
         setTimeout(() => {
           const matchResponse: Message = {
             id: messages.length + 2,
-            text: "Sounds interesting! I'd love to hear more about it sometime.",
+            text: "Awww.. you are so CUTE ❤️",
             sender: "match",
             timestamp: new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }),
             read: false,

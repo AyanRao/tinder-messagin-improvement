@@ -1,0 +1,17 @@
+# Query: attrac
+# ContextLines: 1
+
+3 results - 1 file
+
+components/match-card.tsx:
+  18        name: "Alice, 24",
+  19:       photos: ["/Screenshot 2025-09-26 at 12.24.45 PM.png", "/Screenshot 2025-09-26 at 12.24.45 PM.png", "/woman-hiking.png"],
+  20        interests: ["Hiking", "Photography", "Coffee"],
+
+  37        name: "Bob, 26",
+  38:       photos: ["/attractive-man-profile-picture.jpg", "/man-gaming.jpg", "/man-cooking.png"],
+  39        interests: ["Gaming", "Cooking", "Movies"],
+
+  54        name: "Charlie, 23",
+  55:       photos: ["/attractive-person-profile-picture.jpg", "/person-reading.png", "/person-playing-guitar.jpg"],
+  56        interests: ["Reading", "Art", "Music"],
